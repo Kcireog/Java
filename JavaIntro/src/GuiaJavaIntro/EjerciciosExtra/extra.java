@@ -8,6 +8,6 @@ package GuiaJavaIntro.EjerciciosExtra;
  *
  * @author rodri
  */
-public class ejemplo {
+public class extra {
     
 }
